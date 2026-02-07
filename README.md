@@ -25,3 +25,13 @@ Out of scope:
 - Password cracking or exploitation workflows
 
 This repository is maintained for documentation and research purposes only.
+
+-----
+
+dinopass.com
+
+sites/services to securely send/share passwords
+
+link to table, differences in pw generation (password or passphrase or PIN) among lastpass, bitwarden, keeper, ewallet, etc<br>
+e.g. cannot configure pin generation to less than 5 digits, cannot configure passphrase to less than 3 words, passphrase special separater is not randomized,
+character confusion (0 O o 1 l L j 5 S ; :)
